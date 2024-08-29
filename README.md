@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-# Alana Soares - Desenvolvedora de Software
+### Alana Soares Silva - Desenvolvedora de Software 🙋🏽
 
 ## Sobre Mim
 
@@ -11,7 +8,6 @@ Sempre me identifiquei com a área de tecnologia, e agora estou plenamente dedic
 
 🌱 Atualmente estou em um Bootcamp imersivo na SoulCode Academy com mais de 700 horas de conteúdo, incluindo hard e soft skills, e inglês técnico com vídeo aulas.
 
-![Typing GIF](https://media.tenor.com/images/1d2b7c78f0d6b1f1b2f0c6f0b72fdf2d/tenor.gif)
 
 ## Habilidades Técnicas
 
@@ -36,8 +32,7 @@ Sempre me identifiquei com a área de tecnologia, e agora estou plenamente dedic
 
 ### Ferramentas e Tecnologias
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
@@ -49,7 +44,7 @@ Sempre me identifiquei com a área de tecnologia, e agora estou plenamente dedic
 
 ### Metodologias Ágeis
 - Scrum
-
+- Kanban
 
 ## Estatísticas do GitHub
 
@@ -59,12 +54,10 @@ Sempre me identifiquei com a área de tecnologia, e agora estou plenamente dedic
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=alanasilva88&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/alanasilva88/alanasilva88/blob/output/github-contribution-grid-snake.svg)
-
 ## Contato
 
-- **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/alana-soares-silva)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alana-soares-silva/)
 
 Vamos construir o futuro juntos através da tecnologia!
 
--->
+
