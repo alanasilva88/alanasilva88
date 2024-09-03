@@ -46,13 +46,6 @@ Sempre me identifiquei com a área de tecnologia, e agora estou plenamente dedic
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
           
-          
-
-
-    
-          
-          
-          
 
 ### Metodologias Ágeis
 - Scrum
