@@ -2,7 +2,9 @@
 
 ## Sobre Mim
 
-Olá! Sou Alana Soares Silva, uma desenvolvedora de software apaixonada em transição de carreira. Com uma formação inicial em direito, decidi seguir minha paixão pela tecnologia e, desde o final de 2022, tenho investido intensamente em aprender e desenvolver minhas habilidades técnicas.
+### ✨ Desenvolvedora Full Stack | Em Constante Evolução e Aprofundamento em Fundamentos
+
+Com um histórico comprovado em desenvolvimento **Full Stack**, sou apaixonada por transformar ideias em soluções digitais performáticas e responsivas. Minha experiência abrange desde o desenvolvimento de interfaces e APIs robustas até a automação de processos e gerenciamento de dados em ambientes de nuvem.
 
 Sempre me identifiquei com a área de tecnologia, e agora estou plenamente dedicada a me tornar uma desenvolvedora de software de excelência. Acredito que o caminho para o sucesso requer dedicação e aprendizado contínuo, e estou animada para esta nova aventura.
 
