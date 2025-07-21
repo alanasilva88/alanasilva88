@@ -1,4 +1,4 @@
-### Alana Soares Silva - Desenvolvedora de Software 🙋🏽
+### Alana Silva - Desenvolvedora de Software 🙋🏽
 
 ## Sobre Mim
 
