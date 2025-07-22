@@ -8,7 +8,6 @@ Com um histórico comprovado em desenvolvimento **Full Stack**, sou apaixonada p
 
 Sempre me identifiquei com a área de tecnologia, e agora estou plenamente dedicada a me tornar uma desenvolvedora de software de excelência. Acredito que o caminho para o sucesso requer dedicação e aprendizado contínuo, e estou animada para esta nova aventura.
 
-🌱 Atualmente estou em um Bootcamp imersivo na SoulCode Academy com 480 horas de conteúdo, incluindo hard e soft skills, e inglês técnico com vídeo aulas.
 
 ## Habilidades
 ### Linguagens de Marcação e Estilo
