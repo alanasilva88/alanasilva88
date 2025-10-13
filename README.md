@@ -4,11 +4,9 @@
 
 ### ✨ Desenvolvedora Full Stack 
 
-Com um histórico comprovado em desenvolvimento **Full Stack**, sou apaixonada por transformar ideias em soluções digitais performáticas e responsivas. Minha experiência abrange desde o desenvolvimento de interfaces e **APIs robustas**, com ênfase no ecossistema **Java** e **Spring Boot**, até a automação de processos e gerenciamento de dados em ambientes de nuvem (**AWS**).
+Sou **Desenvolvedora Full Stack** com experiência sólida no desenvolvimento de soluções de ponta a ponta, com forte foco em **backend Java** e **arquitetura moderna de aplicações web**, aliando solidez técnica a uma mentalidade colaborativa e orientada a resultados.
 
-Tenho conhecimento em **mensageria** utilizando **Apache Kafka**, o que me permite construir arquiteturas **assíncronas e escaláveis**. Além disso, possuo experiência na implementação de processos **CI/CD** utilizando **Azure DevOps** e **GitHub Actions** para garantir entregas rápidas e contínuas.
-
-Sempre me identifiquei com a área de tecnologia, e agora estou plenamente dedicada a me tornar uma desenvolvedora de software de excelência. Acredito que o caminho para o sucesso requer dedicação e aprendizado contínuo, e estou animada para esta nova aventura.
+Tenho experiência prática no desenvolvimento de **sistemas escaláveis** utilizando **Spring Boot**, **NestJS** e **Next.js**, aplicando **integração e entrega contínuas (CI/CD)** com **GitHub Actions** e **Google Kubernetes Engine (GKE)**.
 
 ---
 
