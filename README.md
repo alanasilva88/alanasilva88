@@ -70,7 +70,6 @@ Aplicação completa para gerenciamento de vagas e candidatos.
 
 - Next.js
 - NestJS
-- PostgreSQL
 - Firebase
 - JWT
 - Redux
