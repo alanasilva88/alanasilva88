@@ -1,10 +1,14 @@
 # Olá, eu sou a Alana Silva! 👋
 
-## 💻 Desenvolvedora Full Stack
+## 💻 Desenvolvedora Full Stack | Frontend | Backend
 
-Sou desenvolvedora de software apaixonada por transformar ideias em aplicações modernas, escaláveis e intuitivas.
+🇧🇷 Brasil
 
-Tenho experiência desenvolvendo aplicações **Full Stack** utilizando **React, Next.js, Node.js, NestJS e Java Spring Boot**, criando interfaces responsivas, APIs REST, autenticação, integração com bancos de dados e aplicações completas de ponta a ponta.
+Sou desenvolvedora de software apaixonada por transformar ideias em aplicações modernas, escaláveis e focadas na experiência do usuário.
+
+Tenho experiência desenvolvendo aplicações **Full Stack** utilizando **React, Next.js, TypeScript, Node.js, NestJS e Java Spring Boot**, criando interfaces responsivas, APIs REST, autenticação, integração com bancos de dados e aplicações completas de ponta a ponta.
+
+✨ Também desenvolvo landing pages de alta conversão, dashboards administrativos e aplicações web voltadas para negócios reais.
 
 Atualmente busco oportunidades **100% remotas** como:
 
@@ -93,7 +97,7 @@ Desenvolvimento de landing pages focadas em conversão para empresas.
 
 Aplicação educacional desenvolvida em React e Node.js para auxiliar estudantes do Ensino Fundamental através de exercícios interativos.
 
-> Em breve disponível.
+🚧 Em breve disponível.
 
 ---
 
