@@ -115,7 +115,6 @@ Aplicação educacional desenvolvida em React e Node.js para auxiliar estudantes
 - Arquitetura de Software
 - Microsserviços
 - Docker
-- Kubernetes
 - Testes Automatizados
 
 ---
