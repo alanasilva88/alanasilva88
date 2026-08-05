@@ -19,48 +19,48 @@ Atualmente busco oportunidades **100% remotas** como:
 ---
 
 # 🚀 Tecnologias
+
 ### Frontend
 
-- React
-- Next.js
-- TypeScript
-- JavaScript
-- Angular
-- HTML
-- CSS
-- Tailwind CSS
-- Bootstrap
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap&logoColor=%236F0FEE)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Angular](https://shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=%23c3002f)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=TailwindCSS&logoColor=%2300BCFF)
+
 
 ### Backend
 
-- Java
-- Spring Boot
-- Node.js
-- NestJS
-- Express
+![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=NodeJS&logoColor=%23499542)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-333333?style=flat&logo=Spring_Boot&logoColor=007396)
+![NestJS](https://img.shields.io/badge/-NestJS]-333333?style=flat&logo=NestJS]&logoColor=007396)
+![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=Express.js&logoColor=007396)
+![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=Prisma&logoColor=1D242F)
 
 ### Banco de Dados
 
-- PostgreSQL
-- MySQL
-- MongoDB
-- Firebase
-- Prisma ORM
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL&logoColor=00758F)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL&logoColor=336791)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB&logoColor=007632)
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase&logoColor=DD2C00)
 
 ### Cloud e DevOps
 
-- Docker
-- GitHub Actions
-- AWS
-- Google Cloud
-- CI/CD
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=AWS)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-333333?style=flat&logo=Google_Cloud)
 
 ### Ferramentas
 
-- Git
-- Postman
-- Figma
-- VS Code
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ---
 
