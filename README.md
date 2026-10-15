@@ -153,8 +153,6 @@ Aprofundando meus conhecimentos em arquitetura de software, qualidade de código
 
 # 📫 Vamos conversar?
 
-Estou aberta a oportunidades **100% remotas** para Frontend, Backend e Full Stack.
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alana-soares-silva/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](https://meu-portfolio-alana-silva.vercel.app/)
 
