@@ -120,6 +120,10 @@ Desenvolvimento de landing pages focadas em conversão para empresas.
 
 `React` · `Next.js` · `Tailwind CSS`
 
+<a href="https://institucional-cinematic.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Ver_Demo_Online-F59E0B?style=for-the-badge&logoColor=white" alt="Ver Landing Page Cinematic"/>
+</a>
+
 ---
 
 ## 📊 GitHub Stats
